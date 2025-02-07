@@ -16,6 +16,9 @@
 
 
 #### LuCI
+##### Collections
+- luci-nginx
+- luci-ssl-nginx
 ##### Applications
 - luci-app-attendedsysupgrade
 - luci-app-opkg
