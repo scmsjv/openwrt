@@ -1,5 +1,7 @@
 ## OpenWrt
 
+<h2>.config</h2>
+
 #### Target System----选择 x86
 #### Subtarget--------选择 x86_64
 #### Target Profile---选择 generic x86/64
